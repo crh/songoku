@@ -1,0 +1,37 @@
+*.orig
+gen/
+.idea
+.idea/*   
+src/main/resources/log4j.xml
+build/*
+bin
+bin/*
+target/*
+reports/*
+bin/*
+script/*
+.settings/*
+*.log*
+*.snapshot
+*.iml
+*.ipr
+*.iws
+*.sh
+.project
+.classpath
+src/test/java/de/admintool/services/*
+.mymetadata
+.pom.xml.swp
+pom.xml.next
+pom.xml.releaseBackup
+pom.xml.tag
+release.properties
+
+/.bundle
+
+# Ignore the default SQLite database.
+/db/*.sqlite3
+
+# Ignore all logfiles and tempfiles.
+/log/*.log
+/tmp
