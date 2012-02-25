@@ -1,7 +1,7 @@
 Son Goku
 ===
 
-This is an example project that uses the [Maven Release Plugin] (https://github.com/github/maven-plugins) and [GitHub Download Plugin] (https://github.com/github/maven-plugins)
+This is an example project that uses the [Maven Release Plugin](https://github.com/github/maven-plugins) and [GitHub Download Plugin](https://github.com/github/maven-plugins)
 
 # Getting started
 
@@ -55,6 +55,14 @@ This is an example project that uses the [Maven Release Plugin] (https://github.
 ```
   $mvn clean install ghDownloads:upload
 ```
+
+# Using GitHub Page Plugin
+
+```
+  $mvn site
+```
+
+The generated site will be committed to the [gh-pages branch](https://crh.github.com/songoku/tree/gh-pages) and visible [here](https://crh.github.com/songoku/).
 
 # Inspired by
 

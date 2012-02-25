@@ -35,3 +35,5 @@ release.properties
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+README.html
