@@ -19,11 +19,11 @@ script/*
 *.sh
 .project
 .classpath
-src/test/java/de/admintool/services/*
 .mymetadata
 .pom.xml.swp
 pom.xml.next
 pom.xml.releaseBackup
+pom.xml.versionsBackup
 pom.xml.tag
 release.properties
 
