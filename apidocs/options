@@ -1,0 +1,24 @@
+-classpath
+'/Users/bender/workspace/euler/songoku/target/classes'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/bender/workspace/euler/songoku/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2012. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/bender/workspace/euler/songoku/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'songoku 0.0.3-SNAPSHOT API'
+-link
+'http://java.sun.com/javase/6/docs/api'
+-use
+-version
+-windowtitle
+'songoku 0.0.3-SNAPSHOT API'
