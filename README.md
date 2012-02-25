@@ -1,7 +1,7 @@
 Son Goku
 ===
 
-This is an example project that uses the [Maven Release Plugin](https://github.com/github/maven-plugins) and [GitHub Download Plugin](https://github.com/github/maven-plugins)
+This is an example project that uses the [Maven Release Plugin](https://github.com/github/maven-plugins) , [GitHub Downloads Plugin](https://github.com/github/maven-plugins) and [Github Site Plugin](https://github.com/github/maven-plugins)
 
 # Getting started
 
