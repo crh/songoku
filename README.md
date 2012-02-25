@@ -39,17 +39,22 @@ This is an example project that uses the [Maven Release Plugin] (https://github.
 ```
 
 * TODO
+
 ** update pom.xml for distribution management
 ** assembly => download
 
 # Using Maven Release Plugin
 
+```
    $mvn release:prepare
    $mvn release:perform
+```
 
 # Using GitHub Download Plugin
 
+```
   $mvn clean install ghDownloads:upload
+```
 
 # Inspired by
 
