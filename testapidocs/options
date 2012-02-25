@@ -1,5 +1,5 @@
 -classpath
-'/Users/bender/workspace/euler/songoku/target/classes:/Users/bender/workspace/euler/songoku/target/test-classes:/Users/bender/.m2/repository/junit/junit/4.8/junit-4.8.jar'
+'/Users/bender/workspace/euler/songoku/target/classes:/Users/bender/workspace/euler/songoku/target/test-classes:/Users/bender/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/Users/bender/.m2/repository/junit/junit/4.10/junit-4.10.jar'
 -encoding
 'UTF-8'
 -protected
