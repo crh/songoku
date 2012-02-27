@@ -62,7 +62,7 @@ This is an example project that uses the [Maven Release Plugin](https://github.c
   $mvn site
 ```
 
-The generated site will be committed to the [gh-pages branch](https://crh.github.com/songoku/tree/gh-pages) and visible [here](https://crh.github.com/songoku/).
+The generated site will be committed to the [gh-pages branch](https://crh.github.com/songoku/tree/gh-pages) and visible [here](http://crh.github.com/songoku/).
 
 # Inspired by
 
