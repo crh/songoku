@@ -1,17 +1,17 @@
 -classpath
-'/Users/bender/workspace/euler/songoku/target/classes:/Users/bender/workspace/euler/songoku/target/test-classes:/Users/bender/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/Users/bender/.m2/repository/junit/junit/4.10/junit-4.10.jar'
+'/home/chh/Dropbox/projects/escidoc/songoku/target/classes:/home/chh/Dropbox/projects/escidoc/songoku/target/test-classes:/home/chh/.m2/repository/org/hamcrest/hamcrest-core/1.1/hamcrest-core-1.1.jar:/home/chh/.m2/repository/junit/junit/4.10/junit-4.10.jar'
 -encoding
 'UTF-8'
 -protected
 -sourcepath
-'/Users/bender/workspace/euler/songoku/src/test/java'
+'/home/chh/Dropbox/projects/escidoc/songoku/src/test/java'
 -author
 -bottom
 'Copyright &#169; 2012. All Rights Reserved.'
 -charset
 'UTF-8'
 -d
-'/Users/bender/workspace/euler/songoku/target/site/testapidocs'
+'/home/chh/Dropbox/projects/escidoc/songoku/target/site/testapidocs'
 -docencoding
 'UTF-8'
 -doctitle
