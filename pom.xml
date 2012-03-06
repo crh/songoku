@@ -23,9 +23,9 @@
   </dependencies>
 
   <scm>
-    <connection>https://crh@github.com/crh/songoku.git</connection>
     <url>https://crh@github.com/crh/songoku.git</url>
-    <developerConnection>https://crh@github.com/crh/songoku.git</developerConnection>
+    <connection>scm:git:https://crh@github.com/crh/songoku.git</connection>
+    <developerConnection>scm:git:https://crh@github.com/crh/songoku.git</developerConnection>
   </scm>
 
 
