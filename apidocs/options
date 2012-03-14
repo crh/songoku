@@ -1,17 +1,17 @@
 -classpath
-'/home/chh/Dropbox/projects/escidoc/songoku/target/classes'
+'/home/chh/code/songoku/target/classes'
 -encoding
 'UTF-8'
 -protected
 -sourcepath
-'/home/chh/Dropbox/projects/escidoc/songoku/src/main/java'
+'/home/chh/code/songoku/src/main/java'
 -author
 -bottom
 'Copyright &#169; 2012. All Rights Reserved.'
 -charset
 'UTF-8'
 -d
-'/home/chh/Dropbox/projects/escidoc/songoku/target/site/apidocs'
+'/home/chh/code/songoku/target/site/apidocs'
 -docencoding
 'UTF-8'
 -doctitle
