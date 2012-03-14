@@ -8,7 +8,17 @@
   <custom>
     <fluidoSkin>
       <topBarEnabled>true</topBarEnabled>
-      <sideBarEnabled>false</sideBarEnabled>
+      <sideBarEnabled>true</sideBarEnabled>
+      <gitHub>
+        <projectId>escidoc/escidoc-browser</projectId>
+        <ribbonOrientation>right</ribbonOrientation>
+        <ribbonColor>red</ribbonColor>
+      </gitHub>
+       <twitter>
+        <user>eSciDocBrowser</user>
+        <showUser>true</showUser>
+        <showFollowers>true</showFollowers>
+      </twitter>
     </fluidoSkin>
   </custom>
 </project>
